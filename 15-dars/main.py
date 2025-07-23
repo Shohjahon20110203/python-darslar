@@ -61,21 +61,3 @@
 
 
 
-# # Talabalar ro'yxati
-# talabalar = ["Ali", "Vali", "Diyor", "Laylo", 'Zarina', "Olim", "Gulnora"]
-
-# # Har bir talabaning bahosini saqlash uchun bo'sh lug'at
-# baholar = {}
-
-# # 0-dan boshlab barcha talabalarni ko'rib chiqamiz
-# i = 0
-# while i < len(talabalar):  # i indeks ro'yxat uzunligidan kichik ekan
-#     ism = talabalar[i]  # joriy talabaning ismi
-#     baho = input(f"{ism}ning bahosi: ")  # foydalanuvchidan baho so'raymiz
-#     baholar[ism] = baho  # ismga mos bahoni lug'atga qo'shamiz
-#     i += 1  # navbatdagi talabaga o'tamiz
-
-# # Natijada barcha baholarni chiqaramiz
-# print("Talabani baholar ro'yxati:")
-# for ism in talabalar:
-#     print(f"{ism} - {baholar[ism]}")  # ism va uning bahosi
