@@ -50,3 +50,28 @@ Dastur tekshiradi: agar ro‘yxatda bo‘lsa — "Ism topildi", aks holda "Ism r
 Foydalanuvchi “stop” deb yozmaguncha davom etadi (while bilan).
 
 if-else orqali mavjudlik tekshiriladi."""
+
+
+
+
+
+
+
+
+
+
+
+"""
+🔹Funksiya: ildiz_va_daraja(x, n)
+
+📌 Maqsad:
+
+Berilgan sonning kvadrat ildizini (√x) hisoblash
+
+O‘sha sonning n-darajasini (xⁿ) hisoblash
+
+math.sqrt(x) → kvadrat ildiz
+math.pow(x, n) → daraja hisoblash
+
+math modulidan foydalanish shart!
+"""
