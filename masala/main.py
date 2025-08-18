@@ -75,3 +75,55 @@ math.pow(x, n) → daraja hisoblash
 
 math modulidan foydalanish shart!
 """
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+""" 
+
+📝 MASALA: Talabalar baholarini hisoblash
+📌 Vazifa:
+
+Foydalanuvchidan talabalar ismi va baholarini kiritishni so‘rang.
+
+O‘rtacha bahoni hisoblang.
+
+Eng yuqori va eng past bahoni toping.
+
+Natijalarni ekranga chiqaring.
+
+
+
+
+🔹 Modullarga bo‘linishi:
+
+1 - main.py
+
+Foydalanuvchi bilan muloqot qiladi (ism, baholarni kiritadi).
+
+Boshqa modullardan funksiyalarni chaqiradi.
+
+
+2 - hisob.py
+
+O‘rtacha bahoni hisoblaydigan funksiya yoziladi.
+
+Eng yuqori va eng past bahoni aniqlash funksiyalari bo‘ladi.
+
+
+3 - chiqar.py
+
+Natijalarni chiroyli qilib ekranga chiqaradigan funksiya yoziladi.
+"""
