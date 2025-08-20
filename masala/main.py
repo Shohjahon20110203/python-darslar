@@ -61,6 +61,60 @@ if-else orqali mavjudlik tekshiriladi."""
 
 
 
+
+
+
+
+
+
+
+
+"""Daraja hisoblash
+
+Funksiya ikkita son qabul qiladi: a va n. Natija: a^n.
+Masalan: 2, 5 → 32"""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"""
+Foydalanuvchidan ikkita son olib, ulardan kattasini konsolga chiqaruvchi funksiya yozing. 
+Agar sonlar teng bo'lsa "Sonlar teng" degan xabarni chiqaring.
+"""
+
+
+
+
+
+
+
+
+
+
+
 """
 🔹Funksiya: ildiz_va_daraja(x, n)
 
@@ -79,10 +133,12 @@ math modulidan foydalanish shart!
 
 
 
+   
 
 
 
-"""2-topshiriq: Baho tizimi
+
+"""topshiriq: Baho tizimi
 
 talaba.py modulida bahola(ball) funksiyasi yozing.
 
@@ -98,6 +154,9 @@ Aks holda "F".
 
 Asosiy faylda foydalanuvchi ball kiritsin va natijasi chiqsin.
 """
+
+
+
 
 
 
@@ -181,3 +240,4 @@ Eng yuqori va eng past bahoni aniqlash funksiyalari bo‘ladi.
 
 Natijalarni chiroyli qilib ekranga chiqaradigan funksiya yoziladi.
 """
+
