@@ -82,6 +82,60 @@ math modulidan foydalanish shart!
 
 
 
+"""2-topshiriq: Baho tizimi
+
+talaba.py modulida bahola(ball) funksiyasi yozing.
+
+Agar 90+ bo‘lsa "A",
+
+80+ bo‘lsa "B",
+
+70+ bo‘lsa "C",
+
+60+ bo‘lsa "D",
+
+Aks holda "F".
+
+Asosiy faylda foydalanuvchi ball kiritsin va natijasi chiqsin.
+"""
+
+
+
+
+
+
+
+
+
+"""Hozirgi yilni chiqarish
+
+def hozirgi_yil() funksiyasi yozing.
+
+datetime.date.today() yordamida bugungi yilni chiqarsin.
+Natija: "Hozirgi yil: 2025"
+"""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
